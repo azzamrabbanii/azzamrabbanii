@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm calm person 😺
 -->
+
+ <p>
+        <a href="https://github.com/azzamrabbanii">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azzamrabbaniif06&show_icons=true&theme=highcontrast">  
+        </a>
+    </p>
