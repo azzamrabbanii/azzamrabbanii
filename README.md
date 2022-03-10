@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm calm person 😺
 -->
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=azzamrabbanii&bg_color=000000&color=00ff91&line=00ff91&point=fcfcfc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
