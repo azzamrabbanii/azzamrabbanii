@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **MazzamR08@gmail.com**
 
-- ⚡ Fun fact **I love to play games**
+- ⚡ Fun fact **I love to play games also**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
