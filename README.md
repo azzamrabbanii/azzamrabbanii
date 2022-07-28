@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     </p>
     <p>
         <a href="https://github.com/azzamrabbanii">
-            <img src="https://activity-graph.herokuapp.com/graph?username=salehrashid&bg_color=000000&color=00ff91&line=00ff91&point=fcfcfc&area=true&hide_border=true">
+            <img src="https://activity-graph.herokuapp.com/graph?username=azzamrabbanii&bg_color=000000&color=00ff91&line=00ff91&point=fcfcfc&area=true&hide_border=true">
         </a>
     </p>    
 </body>
