@@ -1,8 +1,11 @@
 
 ### Hi, Mate <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
 <p> I'm a student from Indonesia and I'm interested in programming </p>
+<p> Get in touch </p>
+<p> ✉️ email : MazzamR08@gmail.com </p>
+<p> 🔗 Linkedin : https://www.linkedin.com/in/muhammad-azzam-rabbani-96941621a/
+<p> 😸 Instagram : azzamra08@gmail.com </p>
 
 <!--
 **azzamrabbanii/azzamrabbanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
