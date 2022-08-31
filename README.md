@@ -4,7 +4,7 @@
 <p> I'm a student from Indonesia and I'm interested in programming </p>
 <p> Get in touch!!! </p>
 <p> ✉️ email : MazzamR08@gmail.com </p>
-<p> 🔗 Linkedin : https://www.linkedin.com/in/muhammad-azzam-rabbani-96941621a/
+<p> 🔗 Linkedin : https:/Linkedin-Azzam
 <p> 😸 Instagram : azzamra08 </p>
 
 <!--
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <p>
         <a href="https://github.com/azzamrabbanii">
             <img height="192em" src="https://github-readme-stats.vercel.app/api?username=azzamrabbanii&show_icons=true&theme=gotham"/>
-            <img width="520px" src="https://github-readme-streak-stats.herokuapp.com?user=azzamrabbanii&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+            <img width="520px" src="https://github-readme-streak-stats.herokuapp.com?        user=azzamrabbanii&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
         </a>
     </p>
     <p>
