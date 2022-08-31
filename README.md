@@ -4,7 +4,7 @@
 <p> I'm a student from Indonesia and I'm interested in programming </p>
 <p> Get in touch!!! </p>
 <p> ✉️ email : MazzamR08@gmail.com </p>
-<p> 🔗 Linkedin :  <p align="center">I'm <a href="https://www.linkedin.com/in/muhammad-azzam-rabbani-96941621a/">Azzam Rabbani</a></p>    
+<p> 🔗 Linkedin :  <p>I'm <a href="https://www.linkedin.com/in/muhammad-azzam-rabbani-96941621a/">Azzam Rabbani</a></p>    
 <p> 😸 Instagram : azzamra08 </p>
 
 <!--
