@@ -4,8 +4,6 @@
 <p> I'm a student from Indonesia and I'm interested in programming </p>
 <p> Get in touch 😎 </p>
 <p> ✉️ email : MazzamR08@gmail.com </p>
-<p> 🔗 Linkedin : <a href="https://www.linkedin.com/in/muhammad-azzam-rabbani-96941621a/">Azzam Rabbani </a></p>    
-<p> 😸 Instagram : <a href="https://www.instagram.com/azzamra08/">azzamra08</a></p>
 
 <!--
 **azzamrabbanii/azzamrabbanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
