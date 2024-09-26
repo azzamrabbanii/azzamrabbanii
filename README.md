@@ -4,10 +4,10 @@
 <p> I'm a student from Indonesia, I'm interested in programming </p>
 <p> Get in touch 😸 </p>
 <p> ✉️ Email : MazzamR08@gmail.com </p>
-<a href="https://www.linkedin.com/in/azzamdeveloper/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/azzamdeveloper/">
   <img height="50" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000"/>
 </a>
-<a href="https://www.instagram.com/azzamra08/" target="_blank"  rel="noopener noreferrer">
+<a href="https://www.instagram.com/azzamra08/">
   <img height="50" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"/>
 </a>
 
