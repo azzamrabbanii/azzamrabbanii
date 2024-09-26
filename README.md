@@ -42,5 +42,9 @@ Here are some ideas to get you started:
     <p>
       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzamrabbanii&layout=compact)
     </p>
+    <p>
+      [![An image of @azzamra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azzamra)](https://holopin.io/@azzamra)
+      <img src="https://holopin.me/azzamra"/>
+    </p>
         
 </body>
