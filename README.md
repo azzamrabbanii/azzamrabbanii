@@ -4,7 +4,7 @@
 <p> I'm a student from Indonesia, I'm interested in programming </p>
 <p> Get in touch 😸 </p>
 <p> ✉️ Email : MazzamR08@gmail.com </p>
-<p> 🔗 Linkedin <a>https://www.linkedin.com/in/azzamdeveloper/</a> </p>
+<p> 🔗 <a href="https://www.linkedin.com/in/azzamdeveloper/">Linkedin</a></p>
 
 <!--
 **azzamrabbanii/azzamrabbanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
