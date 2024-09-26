@@ -38,5 +38,8 @@ Here are some ideas to get you started:
         <a href="https://github.com/azzamrabbanii">
             <img height="192em" src="https://github-readme-stats.vercel.app/api?username=azzamrabbanii&show_icons=true&theme=gotham"/>
         </a>
+        <a href="https://github.com/azzamrabbanii">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzamrabbani&layout=compact"/>
+        </a>
     </p>
 </body>
