@@ -37,13 +37,7 @@ Here are some ideas to get you started:
     <p>
         <a href="https://github.com/azzamrabbanii">
             <img height="192em" src="https://github-readme-stats.vercel.app/api?username=azzamrabbanii&show_icons=true&theme=gotham"/>
-            <!--<img width="520px" src="https://github-readme-streak-stats.herokuapp.com?        
-            user=azzamrabbanii&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>-->
         </a>
     </p>
-<!--     <p>
-        <a href="https://github.com/azzamrabbanii">
-            <img src="https://activity-graph.herokuapp.com/graph?username=azzamrabbanii&bg_color=000000&color=00ff91&line=00ff91&point=fcfcfc&area=true&hide_border=true">
-        </a>
-    </p>     -->
+        
 </body>
