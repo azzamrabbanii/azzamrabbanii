@@ -39,5 +39,8 @@ Here are some ideas to get you started:
             <img height="192em" src="https://github-readme-stats.vercel.app/api?username=azzamrabbanii&show_icons=true&theme=gotham"/>
         </a>
     </p>
+    <p>
+      [![Azzam GitHub stats](https://github-readme-stats.vercel.app/api?username=azzamrabbanii)](https://github.com/azzamrabbanii/github-readme-stats)
+    </p>
         
 </body>
