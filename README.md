@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         </a>
     </p>
     <p>
-      [![Azzam GitHub stats](https://github-readme-stats.vercel.app/api?username=azzamrabbanii)](https://github.com/azzamrabbanii/github-readme-stats)
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzamrabbanii&layout=compact)
     </p>
         
 </body>
