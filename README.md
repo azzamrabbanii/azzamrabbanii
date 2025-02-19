@@ -15,14 +15,14 @@
 
 <!-- **azzamrabbanii/azzamrabbanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently studying on Telkom University
-- 🌱 I’m currently learning Information system
+- 🔭 I’m currently studying on Telkom University majoring in Information System
+- 🌱 I’m currently learning Dart progamming language
 <!--- 👯 I’m looking to collaborate on ... -->
 <!--- 🤔 I’m looking for help with ... -->
 <!--- 💬 Ask me about ... -->
-- 📫 How to reach me: MazzamR08@gmail.com
+- 📫 Get in touch : MazzamR08@gmail.com
 <!--- 😄 Pronouns: he/him -->
 <!--- ⚡ Fun fact: i'm calm person 😺-->
 
